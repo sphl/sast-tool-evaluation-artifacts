@@ -1,4 +1,4 @@
-# sast-tool-evaluation-artifacts
+# SAST Tool Evaluation Artifacts
 
 Artifacts for the paper: ***An Empirical Study on the Effectiveness of Static C Code Analyzers for Vulnerability Detection***
 
