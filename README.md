@@ -12,13 +12,13 @@ Artifacts for the paper: ***An Empirical Study on the Effectiveness of Static C 
 
 ```bibtex
 @inproceedings{SASTEval2022,
-	title         = {An Empirical Study on the Effectiveness of Static C Code Analyzers for Vulnerability Detection},
-	author        = {Lipp, Stephan and Banescu, Sebastian and Pretschner, Alexander},
-	year          = {2022},
-	booktitle     = {Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis},
-	series        = {ISSTA'22},
-	doi           = {10.1145/3533767.3534380},
-	numpages      = {12}
+    title         = {An Empirical Study on the Effectiveness of Static C Code Analyzers for Vulnerability Detection},
+    author        = {Lipp, Stephan and Banescu, Sebastian and Pretschner, Alexander},
+    year          = {2022},
+    booktitle     = {Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis},
+    series        = {ISSTA'22},
+    doi           = {10.1145/3533767.3534380},
+    numpages      = {12}
 }
 ```
 
